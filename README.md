@@ -20,6 +20,7 @@
 | `ldp-cyber-teigen-2026-10.md` | 導讀 Markdown 原稿 |
 | `README.md` | 本說明 |
 | `images/web/` | 4 張資訊圖（時間軸、機關分工地圖、找洞與補洞、日台對照），每張有 16:9 與 9:16 兩版，WebP 格式，共 8 檔 |
+| `translation/` | 提言全文繁體中文翻譯（中日對照，`index.html` 與 `ldp-teigen-zh-tw.md`）；AI 翻譯，未經人工審核，以日文原文為準 |
 | `share_post.md` | 社群分享文 |
 | `.gitignore` | 排除本機專用目錄 |
 
